@@ -4,7 +4,7 @@ A clean, responsive, and human-friendly contact form built with HTML, CSS, and J
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://zubair-471.github.io/contact-form/)
+🔗 [View Live Demo](https://zubair-471.github.io/Contact-Form/)
 
 ## ✨ Features
 
