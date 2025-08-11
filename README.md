@@ -35,7 +35,13 @@ A **simple, modern, and responsive** contact form built with **HTML, CSS, and Ja
 * `style.css` → Styling & animations
 * `script.js` → Validation logic
 
+## 👨‍💻 Author & Contact
 
+* **M. Zubair Tariq**
+* 📧 [M.ZubairTariq20@gmail.com](mailto:M.ZubairTariq20@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zubair-tariq-70209b364)
+* 🎯 [Fiverr – ZubairWebWorks](https://www.fiverr.com/ZubairWebWorks)
+  
 ---
 
 ⭐ **Star this repo** if you find it useful!
