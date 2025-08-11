@@ -35,12 +35,6 @@ A **simple, modern, and responsive** contact form built with **HTML, CSS, and Ja
 * `style.css` → Styling & animations
 * `script.js` → Validation logic
 
----
-
-## 👨‍💻 Author
-
-**Muhammad Zubair Tariq**
-🔗 [LinkedIn Profile](www.linkedin.com/in/muhammad-zubair-tariq-70209b364)
 
 ---
 
