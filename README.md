@@ -40,7 +40,7 @@ A **simple, modern, and responsive** contact form built with **HTML, CSS, and Ja
 ## 👨‍💻 Author
 
 **Muhammad Zubair Tariq**
-🔗 [GitHub Profile](https://github.com/zubair-471)
+🔗 [LinkedIn Profile](www.linkedin.com/in/muhammad-zubair-tariq-70209b364)
 
 ---
 
