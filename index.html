@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Say Hello</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>👋 Say Hello</h1>
+            <p>We'd love to hear from you!</p>
+        </div>
+
+        <form id="contactForm">
+            <div class="field">
+                <label for="name">Your name *</label>
+                <input type="text" id="name" name="name" placeholder="What should we call you?">
+                <span class="error" id="nameError"></span>
+            </div>
+
+            <div class="field">
+                <label for="email">Email *</label>
+                <input type="email" id="email" name="email" placeholder="your@email.com">
+                <span class="error" id="emailError"></span>
+            </div>
+
+            <div class="field">
+                <label for="subject">Subject *</label>
+                <input type="text" id="subject" name="subject" placeholder="What's this about?">
+                <span class="error" id="subjectError"></span>
+            </div>
+
+            <div class="field">
+                <label for="message">Message *</label>
+                <textarea id="message" name="message" placeholder="Tell us what's on your mind..."></textarea>
+                <span class="error" id="messageError"></span>
+            </div>
+
+            <button type="submit" id="submitBtn">
+                <span class="btn-text">Send Message</span>
+                <span class="spinner" style="display: none;"></span>
+            </button>
+        </form>
+
+        <div class="alert success" id="successAlert" style="display: none;">
+            <span>🎉 Thanks! Your message is on its way.</span>
+        </div>
+
+        <div class="alert error" id="errorAlert" style="display: none;">
+            <span>⚠️ Please check the fields above.</span>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
